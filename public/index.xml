@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>johndoe</title>
+    <title>Aashish Chaple</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on johndoe</description>
+    <description>Recent content on Aashish Chaple</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
@@ -14,6 +14,13 @@
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resume/</guid>
       <description>Aashish Chaple&#xD;Link to heading&#xD;(857) 265-0146 | Boston, MA | chaple.a@northeastern.edu | LinkedIn | GitHub&#xA;Education&#xD;Link to heading&#xD;Northeastern University, Boston&#xD;Link to heading&#xD;Master of Science in Software Engineering Systems&#xA;Expected May 2025&#xA;GPA: 3.75/4.0&#xA;Relevant Coursework: Advanced Algorithms, Enterprise Software Design, Object Oriented Design, DevOps&#xA;BMS College of Engineering, Bangalore&#xD;Link to heading&#xD;Bachelor of Engineering in Information Science Engineering&#xA;July 2022&#xA;GPA: 3.7/4.0&#xA;Relevant Coursework: Data Structures, Algorithms, Unix/Linux Operating Systems, Web Development, Database Management Systems, Machine Learning, Artificial Intelligence, Computer Networks, Cloud Computing</description>
+    </item>
+    <item>
+      <title>Contact Info</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>Contact Info&#xD;Link to heading&#xD;Git: github.com/aashishrc&#xA;Your Profile: linkedin.com/in/aashish-chaple&#xA;Email: chaple.a@northeastern.edu&#xA;Phone: +1 (857) 265-0146 (Mobile)</description>
     </item>
     <item>
       <title>Projects</title>
@@ -112,13 +119,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
       <description>Aashish Chaple (He/Him)&#xD;Link to heading&#xD;CSE Grad @Northeastern | prev @Akamai | BMSCE &amp;lsquo;22 | Full-Stack Engineer&#xD;Link to heading&#xD;I am a Computer Software Engineering graduate at Northeastern University, equipped with a robust skill set and a deep understanding of programming languages, including Python, C++, and Java. My proficiency extends to Software Development using the MERN stack, Object-Oriented Programming, and Data Structures &amp;amp; Algorithms, making me well-versed in solving complex problems.</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>Follow me, @johndoe.</description>
     </item>
   </channel>
 </rss>
