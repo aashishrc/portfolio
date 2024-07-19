@@ -1,38 +1,74 @@
 ---
 title: "About Me"
-date: 2024-07-19
-draft: false
 ---
 
-# Hi there! I'm Alex, a Software Engineer at Northeastern University 👋
+## Aashish Chaple (He/Him)
+### CSE Grad @Northeastern | prev @Akamai | BMSCE '22 | Full-Stack Engineer
 
-I'm a recent graduate from Northeastern University's Khoury College of Computer Sciences, where I earned my Bachelor's degree in Computer Science with a minor in Data Science. During my time at Northeastern, I had the incredible opportunity to participate in the university's renowned co-op program, which allowed me to gain real-world experience working as a software engineer at several top-tier tech companies.
+I am a Computer Software Engineering graduate at Northeastern University, equipped with a robust skill set and a deep understanding of programming languages, including Python, C++, and Java. My proficiency extends to Software Development using the MERN stack, Object-Oriented Programming, and Data Structures & Algorithms, making me well-versed in solving complex problems.
 
-## My Passion for Technology 💻
+### Experience
 
-From a young age, I've been fascinated by the power of technology to solve complex problems and improve people's lives. This passion led me to pursue a career in software engineering, where I can continuously learn and innovate while working on projects that make a meaningful impact.
+#### Akamai Technologies
+**Software Development Engineer** (Jul 2022 - Jul 2023)  
+- Designed and built a full-stack web application utilizing Python, Django, HTML5, CSS3, JavaScript, Bootstrap, and MongoDB to streamline debugging and resolution of machine suspension issues, implemented in Docker.
+- Developed Python scripts leveraging advanced automation techniques to automate the unsuspension of machines for 80% of cases, resulting in a significant reduction of manual effort by 30% per week, facilitating remote connectivity.
+- Played a pivotal role in automation tool development using CI/CD with Jenkins and Python, achieving a 25% test execution time reduction, and devised algorithms for precise test suite scheduling, eliminating delays and improving testing efficiency.
+- Prepared database optimization strategies to enhance overall system efficiency and reliability, resulting in a streamlined user experience and improved application performance with a 20% reduction in response time.
+- Automated testing strategies using Python and Shell scripting, yielding a significant 25% testing time cut.
 
-## My Co-op Experience 🚀
+**Spring Intern** (Feb 2022 - Jun 2022)  
+- Devised and implemented in-depth test plans/cases with cross-functional teams to ensure the stability of network flow through servers, identified application bugs, boosting system efficiency by 15%.
+- Planned corrective actions to enhance test coverage and accuracy, leading to a 10% reduction in production defects.
 
-Throughout my time at Northeastern, I completed three six-month co-op placements:
+**Summer Intern** (May 2021 - Jul 2021)  
+- Devised and implemented in-depth test plans/cases with cross-functional teams to ensure the stability of network flow through servers, identified application bugs, boosting system efficiency by 15%.
+- Planned corrective actions to enhance test coverage and accuracy, leading to a 10% reduction in production defects.
 
-1. **Software Engineering Intern at Amazon Web Services (AWS)**: I worked on the Elastic Compute Cloud (EC2) team, contributing to the development of new features and optimizations for AWS's flagship compute service.
+### Education
 
-2. **Full Stack Developer at HubSpot**: As part of the Marketing Hub team, I collaborated with designers and product managers to build and maintain user-facing features for HubSpot's marketing automation platform.
+#### Northeastern University
+**Master's degree, Computer Software Engineering** (Sep 2023 - Present)  
+- Grade: 4.0/4.0
+- Activities and societies: Google Student Developer Club
+- Coursework: Program Structure & Algorithms, Enterprise Software Design, Object Oriented Design, Web Design, and User Experience
 
-3. **Machine Learning Engineer at NVIDIA**: I joined the AI Research team, where I worked on developing and implementing novel deep learning algorithms for computer vision tasks, such as object detection and semantic segmentation.
+#### B. M. S. College of Engineering
+**Bachelor of Engineering - BE, Computer and Information Sciences** (2018 - 2022)  
+- Grade: 9.3/10
+- Coursework: Data Structures, Algorithms, Operating Systems, Database Management Systems, Computer Networks, Statistics & Discrete Mathematics, Linear Algebra, Machine Learning & AI, Big Data Analytics
 
-## My Skills and Interests 🧠
+### Projects
 
-- **Programming Languages**: Python, Java, C++, JavaScript, TypeScript
-- **Web Development**: React, Node.js, Express, HTML, CSS
-- **Databases**: SQL (PostgreSQL, MySQL), NoSQL (MongoDB, DynamoDB)
-- **Machine Learning**: TensorFlow, PyTorch, scikit-learn, Keras
-- **Cloud Computing**: AWS, Google Cloud Platform, Microsoft Azure
-- **DevOps**: Docker, Kubernetes, CI/CD pipelines, Git
+#### Catch-Me-If-You-Can
+- Developed a fun multiplayer map-based game using Flask and React.js for a dynamic interface, and Redis for real-time message queues, enabling responsive real-time navigation and interaction for three players, one cop, and two culprits.
+- [GitHub - aashishrc/catch-me-if-you-can](https://github.com/aashishrc/catch-me-if-you-can)
 
-When I'm not coding, you can find me exploring the great outdoors 🌲, playing soccer with friends ⚽️, or diving into a good science fiction novel 📚.
+#### TherapEase.ai
+- Developed a Game-Based Pre-Therapy Questionnaire utilizing BART and Stable Diffusion-XL ML models for the Diall Mental Health AI Hackathon 2024.
+- Executed an algorithm for a pictionary game, each image depicting a pre-therapy question, and generated summaries.
+- Created a React.js frontend integrated with a backend built using Node.js, Express.js, and MongoDB.
+- Finished in the top 2 Best Projects among 50+ teams participating at the Diall Mental Health Hackathon.
 
-## Let's Connect! 🤝
+### Skills
+- **Programming Languages:** Python, C++, Java
+- **Web Development:** MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, Django, HTML5, CSS3, JavaScript, Bootstrap
+- **DevOps:** Docker, Kubernetes, CI/CD with Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Cloud Services:** AWS, Azure, GCP
+- **Tools:** Git, Bitbucket, Jira
 
-I'm always eager to learn from others and collaborate on exciting projects. Feel free to reach out to me via [email](mailto:alex@example.com), [LinkedIn](https://www.linkedin.com/in/alex-example/), or [GitHub](https://github.com/alex-example). I look forward to connecting with you!
+### Languages
+- **English:** Native or bilingual proficiency
+- **Marathi:** Native or bilingual proficiency
+- **Hindi:** Full professional proficiency
+- **Kannada:** Full professional proficiency
+- **Telugu:** Elementary proficiency
+
+### Certifications
+- **Architecting with Google Compute Engine Specialization** (Coursera, Jul 2021)
+- **Learning Django** (LinkedIn, Jun 2021)
+
+### Volunteering
+- **BMSCE Phase Shift:** Junior Coordinator (Aug 2019 - Sep 2019)
+- **BMSCE UTSAV:** Junior Coordinator (Feb 2019 - Apr 2019)
