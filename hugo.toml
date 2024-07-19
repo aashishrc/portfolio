@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com" 
+baseURL = "https://portfolio-nine-omega-62.vercel.app/" 
 title = "Aashish Chaple"
 theme = "hugo-coder"
 languageCode = "en"
