@@ -1,4 +1,4 @@
-baseURL = "https://portfolio-nine-omega-62.vercel.app/"
+baseURL = "https://aashish-chaple.vercel.app/"
 title = "Aashish Chaple"
 theme = "hugo-coder"
 languageCode = "en"
@@ -20,7 +20,7 @@ author = "Aashish Chaple"
 description = "Aashish Chaple's personal website, a Northeastern University student"
 keywords = "blog,student,northeastern,personal"
 info = ["Computer Software Engineering Student", "Northeastern University"]  
-avatarURL = "public/images/aashish_avatar.jpg"
+avatarURL = "/public/images/aashish_avatar.jpg"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2019
