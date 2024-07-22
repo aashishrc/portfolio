@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Aashish Chaple</title>
-    <link>https://aashish-chaple.vercel.app/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Aashish Chaple</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://aashish-chaple.vercel.app/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
-      <link>https://aashish-chaple.vercel.app/projects/projects/</link>
+      <link>http://localhost:1313/projects/projects/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://aashish-chaple.vercel.app/projects/projects/</guid>
+      <guid>http://localhost:1313/projects/projects/</guid>
       <description>Catch-me-if-you-can&#xD;Link to heading&#xD;Jun 2024 - Jun 2024&#xA;Associated with Northeastern University&#xA;Developed a fun multiplayer map-based game using Flask and React.js for a dynamic interface, and Redis for real-time message queues, enabling responsive real-time navigation and interaction for three players, one cop and two culprits. Skills: Flask · Python (Programming Language) · React.js · Amazon Web Services (AWS) · AWS CodeBuild · AWS ECS · Continuous Integration and Continuous Delivery (CI/CD) · Redis</description>
     </item>
     <item>
       <title>Expense Tracker Web App</title>
-      <link>https://aashish-chaple.vercel.app/projects/expense/</link>
+      <link>http://localhost:1313/projects/expense/</link>
       <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://aashish-chaple.vercel.app/projects/expense/</guid>
+      <guid>http://localhost:1313/projects/expense/</guid>
       <description>Expense Tracker Web App&#xD;Link to heading&#xD;Overview&#xD;Link to heading&#xD;The Expense Tracker Web App is a full-stack application designed to help users track and manage their personal expenses. It provides an intuitive interface for recording expenses, categorizing them, and visualizing spending patterns through charts and graphs.&#xA;Features&#xD;Link to heading&#xD;User authentication and authorization Add, edit, and delete expense entries Categorize expenses into predefined categories View expenses by date range and category Interactive data visualization using charts and graphs Responsive design for seamless use across devices Technologies Used&#xD;Link to heading&#xD;Front-end: React: JavaScript library for building user interfaces Redux: State management library for predictable state handling Axios: Promise-based HTTP client for making API requests Chart.</description>
     </item>
   </channel>
