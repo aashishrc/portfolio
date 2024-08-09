@@ -24,7 +24,7 @@ the stability of network flow through servers and identified application bugs, b
 ### Education
 
 #### Northeastern University, Boston, United States
-![Northeastern University](https://aashish-chaple.vercel.app/images/neu-2.jpg)
+![Northeastern University](https://aashish-chaple.vercel.app/images/neu-logo.jpg)
 
 **Master's degree, Computer Software Engineering** (Sep 2023 - Present)  
 - Grade: 4.0/4.0
