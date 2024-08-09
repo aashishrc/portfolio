@@ -7,7 +7,7 @@ Hey! I am a Computer Software Engineering graduate at Northeastern University, e
 ### Experience
 
 #### Akamai Technologies, Bangalore, India
-![Akamai Technologies](https://aashish-chaple.vercel.app/images/akamai-logo.jpg)
+![Akamai Technologies](https://aashishrc.com/images/akamai-logo.jpg)
 
 
 **Software Development Engineer** (Feb 2022 - Jul 2023)
@@ -24,7 +24,7 @@ the stability of network flow through servers and identified application bugs, b
 ### Education
 
 #### Northeastern University, Boston, United States
-![Northeastern University](https://aashish-chaple.vercel.app/images/neu-logo.jpg)
+![Northeastern University](https://aashishrc.com/images/neu-logo.jpg)
 
 **Master's degree, Computer Software Engineering** (Sep 2023 - Present)  
 - Grade: 4.0/4.0
@@ -32,7 +32,7 @@ the stability of network flow through servers and identified application bugs, b
 - Coursework: Program Structure & Algorithms, Enterprise Software Design, Object Oriented Design, Web Design, and User Experience
 
 #### B. M. S. College of Engineering
-![B. M. S. College of Engineering](https://aashish-chaple.vercel.app/images/bmsce-logo.jpg)
+![B. M. S. College of Engineering](https://aashishrc.com/images/bmsce-logo.jpg)
 
 **Bachelor of Engineering - BE, Computer and Information Sciences** (2018 - 2022)  
 - Grade: 9.3/10

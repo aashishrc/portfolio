@@ -31,7 +31,7 @@ date: 2024-07-19
 - Executed comprehensive testing strategies in TaskSphere's development, ensuring a seamless and reliable frontend experience for users.
 
 **Skills:** React.js · Spring MVC · PostgreSQL · Spring Framework · MERN Stack · Java · Object-Oriented Programming (OOP) · Spring Boot  
-**Other contributors**  
+**[GitHub - aashishrc/TaskSphere](https://github.com/aashishrc/TaskSphere)** 
 
 ## UniCycle
 **Nov 2023 - Dec 2023**  
@@ -41,7 +41,8 @@ date: 2024-07-19
 - Engineered efficient processes for data management, optimizing user engagement within the web application.
 - Implemented AWS for hosting, optimizing performance, reliability, and scalability of the student marketplace, ensuring a robust and scalable platform.
 
-**Skills:** React.js · Node.js · MongoDB · Amazon Web Services (AWS) · MERN Stack · Express.js   
+**Skills:** React.js · Node.js · MongoDB · Amazon Web Services (AWS) · MERN Stack · Express.js  
+**[GitHub - aashishrc/UniCycle](https://github.com/aashishrc/Uni-Cycle)**  
 
 ## Yoga Pose Estimation System
 **Sep 2021 - Jul 2022**  
@@ -58,3 +59,4 @@ date: 2024-07-19
 - Developed an Android Studio app using Java and Firebase to establish a direct sales platform for farmers, eliminating intermediaries and yielding a 30% profit increase compared to traditional middlemen-driven sales.
 
 **Skills:** Android Studio · Firebase · Java  
+**[GitHub - aashishrc/KrishiUdhyog](https://github.com/aashishrc/KrishiUdhyog)**  
