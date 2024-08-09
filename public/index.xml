@@ -24,6 +24,13 @@
     </item>
     <item>
       <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Catch-me-if-you-can&#xD;Link to heading&#xD;Jun 2024 - Jun 2024&#xA;Associated with Northeastern University&#xA;Developed a fun multiplayer map-based game using Flask and React.js for a dynamic interface, and Redis for real-time message queues, enabling responsive real-time navigation and interaction for three players, one cop and two culprits. Skills: Flask · Python (Programming Language) · React.js · Amazon Web Services (AWS) · AWS CodeBuild · AWS ECS · Continuous Integration and Continuous Delivery (CI/CD) · Redis</description>
+    </item>
+    <item>
+      <title>Projects</title>
       <link>http://localhost:1313/projects/projects/</link>
       <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/projects/</guid>
@@ -112,6 +119,13 @@
       <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
       <guid>http://localhost:1313/categoria/sintaxe/</guid>
       <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/skills/</guid>
+      <description>&#xD;Skills&#xD;Link to heading&#xD;Programming Languages: Python, C++, Java Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, Django, HTML5, CSS3, JavaScript, Bootstrap DevOps: Docker, Kubernetes, CI/CD with Jenkins Databases: MySQL, PostgreSQL, MongoDB Cloud Services: AWS, Azure, GCP Tools: Git, Bitbucket, Jira Languages&#xD;Link to heading&#xD;English: Native or bilingual proficiency Marathi: Native or bilingual proficiency Hindi: Full professional proficiency Kannada: Full professional proficiency Telugu: Elementary proficiency Certifications&#xD;Link to heading&#xD;Architecting with Google Compute Engine Specialization (Coursera, Jul 2021) Learning Django (LinkedIn, Jun 2021) </description>
     </item>
     <item>
       <title>About Me</title>
