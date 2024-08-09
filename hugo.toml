@@ -77,7 +77,7 @@ url = "https://www.linkedin.com/in/aashish-chaple/"
 name = "RSS"
 icon = "fa-solid fa-rss fa-2x"
 weight = 4  
-url = "https://myhugosite.com/index.xml"
+url = "mailto:chaple.a@northeastern.edu"
 rel = "alternate"
 type = "application/rss+xml"
 
