@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aashish Chaple</title>
+    <link>https://aashishrc.com/</link>
+    <description>Recent content on Aashish Chaple</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 19 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://aashishrc.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aashish Chaple Resume</title>
+      <link>https://aashishrc.com/resume/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/resume/</guid>
+      <description>Aashish Chaple&#xD;Link to heading&#xD;(857) 265-0146 | Boston, MA | chaple.a@northeastern.edu | LinkedIn | GitHub&#xA;Education&#xD;Link to heading&#xD;Northeastern University, Boston&#xD;Link to heading&#xD;Master of Science in Software Engineering Systems&#xA;Expected May 2025&#xA;GPA: 3.75/4.0&#xA;Relevant Coursework: Advanced Algorithms, Enterprise Software Design, Object Oriented Design, DevOps&#xA;BMS College of Engineering, Bangalore&#xD;Link to heading&#xD;Bachelor of Engineering in Information Science Engineering&#xA;July 2022&#xA;GPA: 3.7/4.0&#xA;Relevant Coursework: Data Structures, Algorithms, Unix/Linux Operating Systems, Web Development, Database Management Systems, Machine Learning, Artificial Intelligence, Computer Networks, Cloud Computing</description>
+    </item>
+    <item>
+      <title>Contact Info</title>
+      <link>https://aashishrc.com/contact/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/contact/</guid>
+      <description>Contact Info&#xD;Link to heading&#xD;Git: github.com/aashishrc&#xA;Your Profile: linkedin.com/in/aashish-chaple&#xA;Email: chaple.a@northeastern.edu&#xA;Phone: +1 (857) 265-0146 (Mobile)</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://aashishrc.com/projects/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/projects/</guid>
+      <description>Catch-me-if-you-can&#xD;Link to heading&#xD;Jun 2024 - Jun 2024&#xA;Associated with Northeastern University&#xA;Developed a fun multiplayer map-based game using Flask and React.js for a dynamic interface, and Redis for real-time message queues, enabling responsive real-time navigation and interaction for three players, one cop and two culprits. Skills: Flask · Python (Programming Language) · React.js · Amazon Web Services (AWS) · AWS CodeBuild · AWS ECS · Continuous Integration and Continuous Delivery (CI/CD) · Redis</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>https://aashishrc.com/projects/projects/</link>
+      <pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/projects/projects/</guid>
+      <description>Catch-me-if-you-can&#xD;Link to heading&#xD;Jun 2024 - Jun 2024&#xA;Associated with Northeastern University&#xA;Developed a fun multiplayer map-based game using Flask and React.js for a dynamic interface, and Redis for real-time message queues, enabling responsive real-time navigation and interaction for three players, one cop and two culprits. Skills: Flask · Python (Programming Language) · React.js · Amazon Web Services (AWS) · AWS CodeBuild · AWS ECS · Continuous Integration and Continuous Delivery (CI/CD) · Redis</description>
+    </item>
+    <item>
+      <title>Expense Tracker Web App</title>
+      <link>https://aashishrc.com/projects/expense/</link>
+      <pubDate>Wed, 19 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/projects/expense/</guid>
+      <description>Expense Tracker Web App&#xD;Link to heading&#xD;Overview&#xD;Link to heading&#xD;The Expense Tracker Web App is a full-stack application designed to help users track and manage their personal expenses. It provides an intuitive interface for recording expenses, categorizing them, and visualizing spending patterns through charts and graphs.&#xA;Features&#xD;Link to heading&#xD;User authentication and authorization Add, edit, and delete expense entries Categorize expenses into predefined categories View expenses by date range and category Interactive data visualization using charts and graphs Responsive design for seamless use across devices Technologies Used&#xD;Link to heading&#xD;Front-end: React: JavaScript library for building user interfaces Redux: State management library for predictable state handling Axios: Promise-based HTTP client for making API requests Chart.</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://aashishrc.com/posts/markdown-syntax/</link>
+      <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rich Content</title>
+      <link>https://aashishrc.com/posts/rich-content/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>More Rich Content</title>
+      <link>https://aashishrc.com/posts/more-rich-content/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading&#34;&gt;&#xD;&#xA;  &#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#heading&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://aashishrc.com/posts/math-typesetting/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>HTML and CSS only tabs</title>
+      <link>https://aashishrc.com/posts/html-and-css-only-tabs/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/html-and-css-only-tabs/</guid>
+      <description>Shortcodes&#xD;Link to heading&#xD;The following content:&#xA;{{&amp;lt; tabgroup &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; /tabgroup &amp;gt;}} Will generate:&#xA;Hello&#xD;Hello World!&#xD;Goodbye&#xD;Goodbye Everybody!&#xD;Right alighment&#xD;Link to heading&#xD;You can also align the tabs to the right:&#xA;{{&amp;lt; tabgroup align=&amp;#34;right&amp;#34; &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Hello&amp;#34; &amp;gt;}} Hello World! {{&amp;lt; /tab &amp;gt;}} {{&amp;lt; tab name=&amp;#34;Goodbye&amp;#34; &amp;gt;}} Goodbye Everybody!</description>
+    </item>
+    <item>
+      <title>Mermaid JS support</title>
+      <link>https://aashishrc.com/posts/mermaid-support/</link>
+      <pubDate>Sat, 08 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/mermaid-support/</guid>
+      <description>If you want to use Mermaid-JS on your website. Provide mermaid as Shortcode in your markdown file.&#xA;flowchart LR&#xD;A --&gt; B&#xD;B --&gt; C&#xD;C --&gt; D&#xD;D --&gt; B&#xD;sequenceDiagram&#xD;participant Alice&#xD;participant Bob&#xD;Alice-&gt;&gt;Bob: Hi Bob&#xD;Bob-&gt;&gt;Alice: Hi Alice&#xD;Find more example on Mermaid-JS website.</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://aashishrc.com/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>External Page: Hugo Coder Wiki</title>
+      <link>https://aashishrc.com/posts/hugo-coder-wiki/</link>
+      <pubDate>Thu, 06 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/hugo-coder-wiki/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://aashishrc.com/posts/placeholder-text/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>temas</title>
+      <link>https://aashishrc.com/categoria/temas/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:18 +0100</pubDate>
+      <guid>https://aashishrc.com/categoria/temas/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sintaxe</title>
+      <link>https://aashishrc.com/categoria/sintaxe/</link>
+      <pubDate>Wed, 04 Jan 2023 23:21:06 +0100</pubDate>
+      <guid>https://aashishrc.com/categoria/sintaxe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://aashishrc.com/skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/skills/</guid>
+      <description>&#xD;Skills&#xD;Link to heading&#xD;Programming Languages: Python, C++, Java Web Development: MERN Stack (MongoDB, Express.js, React.js, Node.js), Flask, Django, HTML5, CSS3, JavaScript, Bootstrap DevOps: Docker, Kubernetes, CI/CD with Jenkins Databases: MySQL, PostgreSQL, MongoDB Cloud Services: AWS, Azure, GCP Tools: Git, Bitbucket, Jira Languages&#xD;Link to heading&#xD;English: Native or bilingual proficiency Marathi: Native or bilingual proficiency Hindi: Full professional proficiency Kannada: Full professional proficiency Telugu: Elementary proficiency Certifications&#xD;Link to heading&#xD;Architecting with Google Compute Engine Specialization (Coursera, Jul 2021) Learning Django (LinkedIn, Jun 2021) </description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>https://aashishrc.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://aashishrc.com/about/</guid>
+      <description>Hey! I am a Computer Software Engineering graduate at Northeastern University, equipped with a robust skill set and a deep understanding of programming languages, including Python, C++, and Java. My proficiency extends to Software Development, Cloud Technologies, Devops, Distributed Systems making me well-versed in solving complex problems.&#xA;Experience&#xD;Link to heading&#xD;Akamai Technologies, Bangalore, India&#xD;Link to heading&#xD;Software Development Engineer (Feb 2022 - Jul 2023)&#xA;Developed a full-stack web application using Python, Django, and MongoDB, implemented in Docker, to streamline debugging and resolution of machine suspension issues used by internal teams for 5000+ servers Created REST APIs to automate unsuspension of machines for 80% of cases, reducing manual effort by 30% weekly and enabling remote connectivity Contributed to automation tool development with CI/CD using Jenkins and Python, reducing test execution time by 25% and improving test suite scheduling efficiency Enhanced system performance by preparing database optimization strategies, achieving a 20% reduction in response time, and automated testing strategies with Python and Shell scripting, cutting testing time by 25% Software Engineer Intern (May 2021 - July 2021)</description>
+    </item>
+  </channel>
+</rss>
